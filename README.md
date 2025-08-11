@@ -1,7 +1,7 @@
 # MH2-Particle-Tool V1.2
 
 First unpack the strmanim files you wanna edit with Manhunt toolkit. Then select one as input for particle data to be read and one for output to write the particle data to. 
-For all the fucntions you can choose to use either the Input or Output folder.
+For all the functions you can choose to use either the Input or Output folder.
 
 - Lets you easily transfer all the particle data from one folder of jsons to another. designed for manhunt 2
 
